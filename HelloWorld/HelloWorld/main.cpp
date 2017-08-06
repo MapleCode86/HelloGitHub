@@ -1,16 +1,33 @@
 #include <stdio.h>
+#include "TestClass.h"
 
 
-
-int main(int count, char * arg[])
+char* GetMemory()
 {
-	printf("hello world");
+	//char buf[] = "hello world";
+	
+	char buf[] = "Hello world";
 
-	printf("branch 1");
-    
-    printf("this line coming from mbp");
+	return buf;
+}
 
-	printf("this line coming from Leo - pc");
-    
+
+int main()
+{
+	char* str = GetMemory();
+
+	//str = "hi world";
+	printf(str);
+
+
+	TestClass * testClass = new TestClass();
+	testClass->TestMethod();
+	//testClass->
+	//print something
+
+	delete(testClass);
+
+
+
 	return 0;
 }

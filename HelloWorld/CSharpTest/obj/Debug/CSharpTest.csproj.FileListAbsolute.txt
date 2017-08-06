@@ -1,0 +1,6 @@
+E:\Source\Repo\HelloGitHub\HelloWorld\CSharpTest\bin\Debug\CSharpTest.exe.config
+E:\Source\Repo\HelloGitHub\HelloWorld\CSharpTest\bin\Debug\CSharpTest.exe
+E:\Source\Repo\HelloGitHub\HelloWorld\CSharpTest\bin\Debug\CSharpTest.pdb
+E:\Source\Repo\HelloGitHub\HelloWorld\CSharpTest\obj\Debug\CSharpTest.csprojResolveAssemblyReference.cache
+E:\Source\Repo\HelloGitHub\HelloWorld\CSharpTest\obj\Debug\CSharpTest.exe
+E:\Source\Repo\HelloGitHub\HelloWorld\CSharpTest\obj\Debug\CSharpTest.pdb
